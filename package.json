@@ -1,0 +1,19 @@
+{
+  "name": "angular-data-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phantoll/angular-data-repository.git"
+  },
+  "author": "Nico Pippel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phantoll/angular-data-repository/issues"
+  },
+  "homepage": "https://github.com/Phantoll/angular-data-repository#readme"
+}
